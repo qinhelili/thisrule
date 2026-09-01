@@ -1,14 +1,14 @@
 # NAME: Global
 # CLIENT: QuantumultX
-# UPDATED: 2026-08-31 07:56:57
+# UPDATED: 2026-09-01 07:02:45
 # HOST: 821
-# HOST-SUFFIX: 36057
+# HOST-SUFFIX: 36058
 # HOST-KEYWORD: 62
 # HOST-WILDCARD: 10
 # IP-CIDR: 1030
 # IP6-CIDR: 10
 # USER-AGENT: 115
-# TOTAL: 38105
+# TOTAL: 38106
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -13992,6 +13992,7 @@ HOST-SUFFIX,getjetso.com,Global
 HOST-SUFFIX,getlantern.org,Global
 HOST-SUFFIX,getmalus.com,Global
 HOST-SUFFIX,getmdl.io,Global
+HOST-SUFFIX,getmonero.org,Global
 HOST-SUFFIX,getnews.jp,Global
 HOST-SUFFIX,getoutline.org,Global
 HOST-SUFFIX,getpaint.net,Global
