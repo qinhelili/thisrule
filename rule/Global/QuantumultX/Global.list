@@ -1,14 +1,14 @@
 # NAME: Global
 # CLIENT: QuantumultX
-# UPDATED: 2026-09-06 06:42:23
-# HOST: 821
-# HOST-SUFFIX: 36066
+# UPDATED: 2026-09-11 06:52:20
+# HOST: 822
+# HOST-SUFFIX: 36073
 # HOST-KEYWORD: 62
 # HOST-WILDCARD: 10
 # IP-CIDR: 1030
 # IP6-CIDR: 10
 # USER-AGENT: 115
-# TOTAL: 38114
+# TOTAL: 38122
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -329,6 +329,7 @@ HOST,imperial.insendi.com,Global
 HOST,itvpnpmobile-a.akamaihd.net,GlobalMedia
 HOST,ktpx.amazon.com,GlobalMedia
 HOST,lab.skk.moe,Global
+HOST,lastfm-img.freetls.fastly.net,Global
 HOST,lastfm.freetls.fastly.net,Global
 HOST,lazer.ppy.sh,Global
 HOST,lens.l.google.com,Global
@@ -874,6 +875,8 @@ HOST-SUFFIX,114bank.co.jp,Global
 HOST-SUFFIX,119474.xyz,Global
 HOST-SUFFIX,11jav.com,Global
 HOST-SUFFIX,123-hp.com,Global
+HOST-SUFFIX,123av.com,Global
+HOST-SUFFIX,123av.me,Global
 HOST-SUFFIX,123bin.cc,Global
 HOST-SUFFIX,123dapp.com,Global
 HOST-SUFFIX,123dappipad.com,Global
@@ -23651,6 +23654,7 @@ HOST-SUFFIX,nodequality.com,Global
 HOST-SUFFIX,nodereal.io,Global
 HOST-SUFFIX,nodes.ac.uk,Global
 HOST-SUFFIX,nodeseek.com,Global
+HOST-SUFFIX,nodeseek.org,Global
 HOST-SUFFIX,nodesnoop.com,Global
 HOST-SUFFIX,nodesource.com,Global
 HOST-SUFFIX,nofile.io,Global
@@ -27506,6 +27510,7 @@ HOST-SUFFIX,roboform.com,Global
 HOST-SUFFIX,roborecall.com,Global
 HOST-SUFFIX,robotoffice.com,Global
 HOST-SUFFIX,robustnessiskey.com,Global
+HOST-SUFFIX,roc-taiwan.org,Global
 HOST-SUFFIX,rochdalesfc.ac.uk,Global
 HOST-SUFFIX,rocket-inc.net,Global
 HOST-SUFFIX,rocket.chat,Global
@@ -27576,6 +27581,7 @@ HOST-SUFFIX,roudaosp.cc,Global
 HOST-SUFFIX,roughebonysex.com,Global
 HOST-SUFFIX,roughman.net,Global
 HOST-SUFFIX,roundtable.ac.uk,Global
+HOST-SUFFIX,roushuwo.com,Global
 HOST-SUFFIX,routerboard.com,Global
 HOST-SUFFIX,routesintolanguages.ac.uk,Global
 HOST-SUFFIX,routledgehandbooks.com,Global
@@ -30686,6 +30692,7 @@ HOST-SUFFIX,taiwanbible.com,Global
 HOST-SUFFIX,taiwancon.com,Global
 HOST-SUFFIX,taiwandaily.net,Global
 HOST-SUFFIX,taiwandc.org,Global
+HOST-SUFFIX,taiwanembassy.org,Global
 HOST-SUFFIX,taiwanhot.net,Global
 HOST-SUFFIX,taiwanjobs.gov.tw,Global
 HOST-SUFFIX,taiwanjustice.com,Global
@@ -34972,6 +34979,7 @@ HOST-SUFFIX,wsjwine.com,Global
 HOST-SUFFIX,wspcr.ac.uk,Global
 HOST-SUFFIX,wtbn.org,Global
 HOST-SUFFIX,wtc.ac.uk,Global
+HOST-SUFFIX,wtfpass.com,Global
 HOST-SUFFIX,wtfpeople.com,Global
 HOST-SUFFIX,wtmobile.com,Global
 HOST-SUFFIX,wto.org,Global
