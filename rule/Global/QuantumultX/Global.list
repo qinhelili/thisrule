@@ -1,14 +1,14 @@
 # NAME: Global
 # CLIENT: QuantumultX
-# UPDATED: 2026-09-11 06:52:20
+# UPDATED: 2026-09-16 07:02:19
 # HOST: 822
-# HOST-SUFFIX: 36073
+# HOST-SUFFIX: 36074
 # HOST-KEYWORD: 62
 # HOST-WILDCARD: 10
 # IP-CIDR: 1030
 # IP6-CIDR: 10
 # USER-AGENT: 115
-# TOTAL: 38122
+# TOTAL: 38123
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -26713,6 +26713,7 @@ HOST-SUFFIX,qtweeter.com,Global
 HOST-SUFFIX,quadram.ac.uk,Global
 HOST-SUFFIX,quadraminstitute.ac.uk,Global
 HOST-SUFFIX,quadrat.ac.uk,Global
+HOST-SUFFIX,quakemachinex.com,Global
 HOST-SUFFIX,qualcomm-email.com,Global
 HOST-SUFFIX,qualcomm-inc.com,Global
 HOST-SUFFIX,qualcomm.co.id,Global
