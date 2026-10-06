@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # CLIENT: QuantumultX
-# UPDATED: 2026-10-01 08:05:32
+# UPDATED: 2026-10-06 08:23:13
 # HOST: 124
-# HOST-SUFFIX: 9951
+# HOST-SUFFIX: 9952
 # HOST-KEYWORD: 4
 # IP-CIDR: 260
 # IP6-CIDR: 31
 # IP-ASN: 1
 # USER-AGENT: 30
-# TOTAL: 10401
+# TOTAL: 10402
 HOST,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net,TencentVideo
 HOST,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com,BiliBili
@@ -1699,6 +1699,7 @@ HOST-SUFFIX,bytefcdnrd.com,Douyu
 HOST-SUFFIX,bytegecko.com,ByteDance
 HOST-SUFFIX,bytegoofy.com,ByteDance
 HOST-SUFFIX,bytegslb.com,ByteDance
+HOST-SUFFIX,bytehwm.com,ByteDance
 HOST-SUFFIX,byteimg.com,ByteDance
 HOST-SUFFIX,bytelb.net,ByteDance
 HOST-SUFFIX,bytelove.cn,ByteDance
